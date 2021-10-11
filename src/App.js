@@ -7,7 +7,11 @@ const emojiDictionary = {
   "🥭": "Mango",
   "🍓": "Strawberry",
   "🥦": "Broccoli",
-  "🥞": "Pancake"
+  "🥞": "Pancake",
+  "🥒": "Cucumber",
+  "🍞": "Bread",
+  "🍟": "French Fries",
+  "🍕": "Pizza"
 };
 
 const emojis = Object.keys(emojiDictionary);
